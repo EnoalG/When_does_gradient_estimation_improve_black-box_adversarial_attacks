@@ -1,5 +1,5 @@
-# Black-Box Classifier Attack Comparison
-
+# When does gradient estimation improve black-box adversarial attacks?
+This is the official repository of the paper: *When does gradient estimation improve black-box adversarial attacks?* published at WIFS 2024, https://hal.science/hal-04728275v1/document. 
 This repository contains scripts to compare the performance of three black-box attacks on classifiers: **SurFree**, **CGBA**, and **GeoDA**. The comparison is conducted on two datasets: **ImageNet** and **MNIST**.
 The goal is to evaluate how the gradint estimation can improve the performance of the attacks. 
 
